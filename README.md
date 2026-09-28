@@ -1565,6 +1565,7 @@ These limitations are treated as part of the analytical evaluation rather than b
 
 ---
 
+
 # 🎯 Business Value
 
 The project demonstrates how fragmented transactional data can be transformed into a connected analytical system covering:
@@ -1584,6 +1585,13 @@ Instead of stopping at dashboard visualization, the project combines:
 to create a broader decision-support framework.
 
 ---
+<img width="1148" height="641" alt="Screenshot 2026-09-15 164349" src="https://github.com/user-attachments/assets/f8791cae-e584-4a01-b3d7-4b13ab81dbb7" />
+<img width="1148" height="642" alt="Screenshot 2026-09-15 164423" src="https://github.com/user-attachments/assets/66b2ece2-5585-458e-849b-437c7ce35d16" />
+<img width="1139" height="641" alt="Screenshot 2026-09-15 164542" src="https://github.com/user-attachments/assets/0a7668f3-6b16-478c-8fad-1044fd6a3e28" />
+<img width="1149" height="648" alt="Screenshot 2026-09-15 164457" src="https://github.com/user-attachments/assets/408d97f5-e645-4c98-9cb7-463abf3c0fd3" />
+<img width="1152" height="646" alt="Screenshot 2026-09-15 164519" src="https://github.com/user-attachments/assets/7c5e68f4-f6ea-41c1-b406-95958cb9f6b9" />
+<img width="1139" height="641" alt="Screenshot 2026-09-15 164542" src="https://github.com/user-attachments/assets/532e26b7-30e5-4c14-8660-83a24a9b6953" />
+
 
 # 📁 Suggested Repository Structure
 
@@ -1614,12 +1622,7 @@ retail-intelligence/
 │
 └── README.md
 
-"C:\Users\RohanS\OneDrive\Desktop\Projects\retail project\PBI retail\Screenshot 2026-09-15 164349.png"
-"C:\Users\RohanS\OneDrive\Desktop\Projects\retail project\PBI retail\Screenshot 2026-09-15 164423.png"
-"C:\Users\RohanS\OneDrive\Desktop\Projects\retail project\PBI retail\Screenshot 2026-09-15 164437.png"
-"C:\Users\RohanS\OneDrive\Desktop\Projects\retail project\PBI retail\Screenshot 2026-09-15 164437.png"
-"C:\Users\RohanS\OneDrive\Desktop\Projects\retail project\PBI retail\Screenshot 2026-09-15 164519.png"
-"C:\Users\RohanS\OneDrive\Desktop\Projects\retail project\PBI retail\Screenshot 2026-09-15 164542.png"
+
 ---
 
 # 🚀 Project Outcome
