@@ -1613,7 +1613,7 @@ retail-intelligence/
 ├── screenshots/
 │
 └── README.md
-```
+
 "C:\Users\RohanS\OneDrive\Desktop\Projects\retail project\PBI retail\Screenshot 2026-09-15 164349.png"
 "C:\Users\RohanS\OneDrive\Desktop\Projects\retail project\PBI retail\Screenshot 2026-09-15 164423.png"
 "C:\Users\RohanS\OneDrive\Desktop\Projects\retail project\PBI retail\Screenshot 2026-09-15 164437.png"
