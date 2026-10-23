@@ -537,7 +537,7 @@ retail-intelligence/
 ├── screenshots/
 │
 └── README.md
-``
+```
 
 ---
 <img width="1148" height="641" alt="Screenshot 2026-09-15 164349" src="https://github.com/user-attachments/assets/f8791cae-e584-4a01-b3d7-4b13ab81dbb7" />
